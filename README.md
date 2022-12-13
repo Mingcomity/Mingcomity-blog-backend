@@ -1,6 +1,6 @@
 # Mingcomity-blog-backend
 
-项目上线地址：[mingcomity.cn]()
+项目上线地址：[https://mingcomity.cn]()
 
 笔者自己博客的**后端**项目，使用 Node.js Express 开发。
 
